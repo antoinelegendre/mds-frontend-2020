@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Antoine Le Gendre - Etudiant Ebusiness</title>
+  </head>
+  <body>
+  J'écris du code, je me sent informatien.
+  </body>
+</html>
